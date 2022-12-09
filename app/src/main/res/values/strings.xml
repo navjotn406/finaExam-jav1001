@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">finaExam-jav1001</string>
+    <string name="_4_sided_dice" />
+    <string name="_6_sided_dice" />
+    <string name="_8_sided_dice" />
+    <string name="_10_sided_dice" />
+    <string name="_12_sided_dice" />
+    <string name="_20_sided_dice" />
+    <string name="roll_dice_once" />
 </resources>
